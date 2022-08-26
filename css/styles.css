@@ -532,6 +532,9 @@ body {
 .at {
     font-size: 12px;
     color: black;
+    margin-top: 5px;
+    margin-left: -20px;
+    width: 200px;
 }
 
 .apqs {
