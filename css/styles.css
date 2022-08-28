@@ -1090,7 +1090,7 @@ ul li:last-child{
     content: "";
     background-color: white;
     position: absolute;
-    top: 0px;
+    top: -23px;
     right: 0px;
    left: -40px;
    bottom: 0px;
